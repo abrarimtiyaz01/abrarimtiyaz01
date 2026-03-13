@@ -2,7 +2,7 @@
 
 # Hi there, I'm Abrar Imtiyaz! 👋
 
-### AI & Deep Learning Developer · Computer Vision
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1400&color=4FC3F7&center=true&vCenter=true&width=600&lines=Deep+Learning+%26+Computer+Vision;Building+Medical+AI+Systems;PyTorch+%2B+TensorFlow+Developer;Turning+Data+into+Actionable+Intelligence)](https://git.io/typing-svg)
 
