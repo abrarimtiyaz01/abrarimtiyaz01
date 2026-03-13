@@ -8,7 +8,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abrarimtiyaz01)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abrarimtiyaz01@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00BCD4?style=flat-square&logo=githubpages&logoColor=white)](https://github.com/abrarimtiyaz01)
 
 </div>
 
@@ -20,7 +19,6 @@ I am a software developer with a strong focus on **Artificial Intelligence, Deep
 
 - 🔭 **Currently working on:** Advanced Image Segmentation (U-Net architectures) using **PyTorch** and **TensorFlow/Keras**.
 - 🌱 **Currently learning:** Advanced Data Augmentation, Hyperparameter Tuning, and Model Optimization.
-- 💻 **Tech environment:** macOS Apple Silicon (Optimized local AI training).
 - 🤝 **Looking to collaborate on:** Open-source AI projects, medical imaging, and deep learning research.
 
 ---
@@ -28,7 +26,7 @@ I am a software developer with a strong focus on **Artificial Intelligence, Deep
 ## 🛠️ Technical Arsenal
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,scikit,numpy,git,github,vscode,apple,md&perline=11" />
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,sklearn,numpy&perline=6" />
 </div>
 
 <br/>
