@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,git,github,vscode&perline=7" />
-type=waving&color=0:020913,50:041830,100:020913&height=220&section=header&text=Hi%20there,%20I'm%20Abrar%20Imtiyaz!%20%F0%9F%91%8B&fontSize=45&fontColor=E8F4F8&fontAlignY=40&animation=fadeIn&desc=AI%20%26%20Deep%20Learning%20Developer%20%C2%B7%20Computer%20Vision&descSize=16&descAlignY=65&descColor=5b8fa8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020913,50:041830,100:020913&height=220&section=header&text=Hi%20there,%20I'm%20Abrar%20Imtiyaz!%20%F0%9F%91%8B&fontSize=45&fontColor=E8F4F8&fontAlignY=40&animation=fadeIn&desc=AI%20%26%20Deep%20Learning%20Developer%20%C2%B7%20Computer%20Vision&descSize=16&descAlignY=65&descColor=5b8fa8" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1400&color=4FC3F7&center=true&vCenter=true&width=600&lines=Deep+Learning+%26+Computer+Vision;Building+Medical+AI+Systems;PyTorch+%2B+TensorFlow+Developer;Turning+Data+into+Actionable+Intelligence)](https://git.io/typing-svg)
 
